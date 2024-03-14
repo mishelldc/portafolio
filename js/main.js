@@ -8,7 +8,7 @@ function cargardiv (){
 
         <div class="header">${header}</div>
         <div class="cuadro_del_lado">${cuadro_del_lado}</div>
-        <div class="tres"></div>
+        <div class="contenedor"></div>
         <div class="soporte"></div>
 `;
 }
