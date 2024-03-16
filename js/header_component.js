@@ -7,7 +7,7 @@ let header =`
   <div>Opcion_4</div>
   <div>oPcion_5</div>
 </nav>
-<div class ="btn_header">pricing</div>
+<div class ="btn_header">DMOSORIO</div>
 
 `;
 export{header}
